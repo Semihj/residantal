@@ -49,10 +49,10 @@ const Discover = () => {
         </div>
         <div className="flex-1 flex  ">
           <div className="w-[312px] md:w-[554px]   absolute h-[691px] ">
-            <Image src="/img2.png" fill />
+            <Image src="/img2.png" fill alt="img-2" />
           </div>
           <div className="w-[254px] md:w-[354px]  h-[531px] absolute z-10 mt-[200px] left-[35%] md:left-[45%] ">
-            <Image src="/img.png" fill />
+            <Image src="/img.png" fill alt="img" />
           </div>
         </div>
       </div>

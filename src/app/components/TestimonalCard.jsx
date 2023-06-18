@@ -8,6 +8,7 @@ const TestimonalCard = () => {
         <div className="flex gap-4 ">
         <Image 
          src="/testimonal.png"
+         alt='testimonal'
           width={80}
           height={80} />
          <div className="flex flex-col gap-3 ">

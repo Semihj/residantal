@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='ml-[120px] mb-[500px] mt-[150px] text-[#504F59] flex flex-col'>
       <div className="flex flex-col md:flex-row gap-[60px] ">
         <div className="flex flex-col gap-5">
-          <Image src="/SogeKing.png" width={151} height={40} />
+          <Image src="/SogeKing.png" width={151} height={40} alt='logo' />
           <p className='leading-6 text-[16px]  '>SogeKing is the best place <br /> to buy and rent your dream home throughout Indonesia</p>
         </div>
         <div className="">

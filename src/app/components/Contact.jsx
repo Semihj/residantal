@@ -8,6 +8,7 @@ const Contact = () => {
          
             <Image 
             src="/rect.png"
+            alt='rect'
             fill
             />
             <div className="absolute items-center  left-[5%] flex flex-col gap-20   ">

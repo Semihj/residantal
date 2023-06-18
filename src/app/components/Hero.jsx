@@ -17,14 +17,14 @@ const Hero = () => {
           <div className="flex flex-col mt-20">
             <h1 className="font-bold text-[24px] ">Our Partnership</h1>
             <div className="flex mt-4 gap-4 ">
-              <Image src="/Airbnb.png" width={127} height={40} />
-              <Image src="/Traveloka.png" width={127} height={40} />
-              <Image src="/Pegi.png" width={127} height={40} />
+              <Image src="/Airbnb.png" width={127} height={40} alt="hero" />
+              <Image src="/Traveloka.png" width={127} height={40} alt="hero" />
+              <Image src="/Pegi.png" width={127} height={40} alt="hero" />
             </div>
           </div>
         </div>
         <div className="mr-3 mt-3 ">
-          <Image src="/Home.png" width={716} height={772} />
+          <Image src="/Home.png" width={716} height={772} alt="home" />
         </div>
        
       </div>
